@@ -4,11 +4,11 @@
 ### Exercicio Media Aluno
 >Exercicio para obter a média de um aluno utilizando duas classes para execução e funcionamento do código.
 
-####Class Program
+#### Class Program
 <img src="code.04.png"><a></a>
-####Class Aluno
+#### Class Aluno
 <img src="code.03.png"><a></a>
-###Output
+### Output
 <img src="output.01.png">
 
 
@@ -25,7 +25,7 @@
 <img src="output.02.png">
 
 ---
-####Creditos:
+#### Creditos:
 * Aulas Realizadas pelo Canal [Ralf Lima](https://www.youtube.com/c/RalfLima).
 * Playlist: [Orientação a Objetos com C#](https://www.youtube.com/playlist?list=PLWXw8Gu52TRKlAqSfkdhSTPtAfAcYko5E).
 
