@@ -9,7 +9,7 @@
 #### Class Aluno
 <img src="code.03.png"><a></a>
 ### Output
-<img src="output.01.png">
+<img src="output.01.PNG">
 
 
 ---
@@ -22,7 +22,7 @@
 #### Class Pessoa
 <img src="code.02.png"><a></a>
 #### Output
-<img src="output.02.png">
+<img src="output.02.PNG">
 
 ---
 #### Creditos:
